@@ -1,5 +1,5 @@
 # Desafio Técnico - Vaga Backend (Django) + Frontend (React)
-
+Simulação https://youtu.be/sTsNzDHQaMw
 Este repositório contém a solução para o desafio técnico da vaga de desenvolvedor, com foco principal em **backend Django**, e um bônus adicional com interface em **React**.
 
 ---
@@ -71,7 +71,7 @@ frontend/
 - Django
 - Django REST Framework
 - SimpleJWT
-- SQLite/PostgreSQL
+- SQLite
 
 ---
 
