@@ -1,5 +1,8 @@
 # Desafio Técnico - Vaga Backend (Django) + Frontend (React)
 Simulação https://youtu.be/sTsNzDHQaMw
+---
+Usuário: admin
+Senha : admin
 
 ---
 Este repositório contém a solução para o desafio técnico da vaga de desenvolvedor, com foco principal em **backend Django**, e um bônus adicional com interface em **React**.
@@ -123,7 +126,7 @@ npm run dev
 
 ## ⚖️ Testes
 ```bash
-cd backend
+cd Avantsoft-backend
 python manage.py test
 ```
 
